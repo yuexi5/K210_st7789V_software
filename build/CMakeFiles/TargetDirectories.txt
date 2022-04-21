@@ -1,0 +1,6 @@
+E:/Kendryte_my/SPI_st7789v/build/CMakeFiles/edit_cache.dir
+E:/Kendryte_my/SPI_st7789v/build/CMakeFiles/hello_world.dir
+E:/Kendryte_my/SPI_st7789v/build/CMakeFiles/rebuild_cache.dir
+E:/Kendryte_my/SPI_st7789v/build/kendryte_standalone-sdk/CMakeFiles/kendryte_standalone-sdk.dir
+E:/Kendryte_my/SPI_st7789v/build/kendryte_standalone-sdk/CMakeFiles/edit_cache.dir
+E:/Kendryte_my/SPI_st7789v/build/kendryte_standalone-sdk/CMakeFiles/rebuild_cache.dir
